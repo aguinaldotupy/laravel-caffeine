@@ -39,6 +39,9 @@
             "providers": [
                 "GeneaLabs\\LaravelCaffeine\\Providers\\Service"
             ]
+        },
+        "branch-alias": {
+            "dev-master": "8.0.1"
         }
     },
     "minimum-stability": "dev",
