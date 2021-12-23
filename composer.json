@@ -42,5 +42,12 @@
         }
     },
     "minimum-stability": "dev",
-    "prefer-stable": true
+    "prefer-stable": true,
+    "repositories": [
+        {
+            "name": "jenssegers/model",
+            "type": "git",
+            "url": "git@github.com:aguinaldotupy/model.git"
+        }
+    ]
 }
